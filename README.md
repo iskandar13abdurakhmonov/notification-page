@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [github solution]([https://your-solution-url.com](https://github.com/iskandar13abdurakhmonov/notification-page))
+-   Live Site URL: [netlify live server!]([https://your-live-site-url.com](https://main--gleaming-semolina-081ceb.netlify.app/))
 
 ## My process
 
